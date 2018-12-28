@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "39215531972",
+    "firebase_url": "https://loginexample-903b5.firebaseio.com",
+    "project_id": "loginexample-903b5",
+    "storage_bucket": "loginexample-903b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39215531972:android:a50ecc7c013fcf62",
+        "android_client_info": {
+          "package_name": "com.omelchenkoaleks.loginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39215531972-ac2te5muqre0978iihfsb3a89h690qoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlw8g0Z9OcRzSe6xQYLfyhQh_dHB9haGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
